@@ -1,0 +1,18 @@
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\DAL\bin\Debug\DAL.dll.config
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\DAL\bin\Debug\DAL.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\DAL\bin\Debug\DAL.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\DAL\obj\Debug\DAL.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\DAL\obj\Debug\DAL.pdb
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\DAL\bin\Debug\DAL.dll.config
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\DAL\bin\Debug\DAL.dll
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\DAL\bin\Debug\DAL.pdb
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\DAL\obj\Debug\DAL.dll
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\DAL\obj\Debug\DAL.pdb
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\DAL\bin\Debug\DAL.dll.config
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\DAL\bin\Debug\DAL.dll
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\DAL\bin\Debug\DAL.pdb
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\DAL\obj\Debug\DAL.dll
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,21 @@
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\BAL\bin\Debug\BAL.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\BAL\bin\Debug\BAL.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\BAL\bin\Debug\DAL.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\BAL\bin\Debug\DAL.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\BAL\obj\Debug\BAL.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\BAL\obj\Debug\BAL.pdb
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\BAL\bin\Debug\BAL.dll
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\BAL\bin\Debug\BAL.pdb
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\BAL\bin\Debug\DAL.dll
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\BAL\bin\Debug\DAL.pdb
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\BAL\obj\Debug\BAL.dll
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\BAL\obj\Debug\BAL.pdb
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\BAL\obj\Debug\BAL.dll
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\BAL\obj\Debug\BAL.pdb
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\BAL\bin\Debug\BAL.dll
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\BAL\bin\Debug\BAL.pdb
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\BAL\bin\Debug\DAL.dll
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\BAL\bin\Debug\DAL.pdb

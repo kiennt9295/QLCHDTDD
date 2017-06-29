@@ -1,0 +1,228 @@
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.exe
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.pdb
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Manhinhchinh.resources
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.exe.licenses
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.exe
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.pdb
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhaCungCap.resources
+c:\users\dell\documents\visual studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhanVien1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\BAL.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\DAL.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\BAL.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\DAL.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.DangNhap.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.KhachHang1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.MatHang.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.MatHang1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhaCungCap1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuThuChi.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BoPhan.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuThu1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuChi.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BienLaiTraGop.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Bienlaitragop2.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Doimatkhau.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khuyenmai.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khuyenmai1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieutragop1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Baohanh.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Baohanh1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Hoadon.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.HoadonCTHD.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Huongdan.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongtinphanmem.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.CTHD.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhapkho.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Tonkho.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Xuatkho.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieudathang.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongke.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkebanhang.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkedoanhthu.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkekho.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khachhang2.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhanvien2.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Quanlytaikhoan.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhapkho1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieudathang1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Quanlytaikhoan1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongbaobaohanh.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongbaotragop.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BaoCao.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\RdlCompile.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\RdlCompile.compiled
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.exe.config
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.exe
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.pdb
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.exe
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.pdb
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\BAL.dll
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\DAL.dll
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\BAL.pdb
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\DAL.pdb
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BaoCao.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Baohanh.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Baohanh1.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BienLaiTraGop.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Bienlaitragop2.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BoPhan.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.CTHD.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.DangNhap.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Doimatkhau.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Hoadon.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.HoadonCTHD.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Huongdan.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.KhachHang1.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khachhang2.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khuyenmai.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khuyenmai1.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Manhinhchinh.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.MatHang.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.MatHang1.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhaCungCap.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhaCungCap1.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhanVien1.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhanvien2.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhapkho.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhapkho1.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuChi.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieudathang.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieudathang1.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuThu1.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuThuChi.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieutragop1.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Properties.Resources.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Quanlytaikhoan.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Quanlytaikhoan1.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongbaobaohanh.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongbaotragop.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongke.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkebanhang.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkedoanhthu.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkekho.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongtinphanmem.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Tonkho.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Xuatkho.resources
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.exe.licenses
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\RdlCompile.cache
+C:\Users\Dell\Desktop\QUẢN LÝ CỬA HÀNG DI ĐỘNG\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\RdlCompile.compiled
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.exe.config
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.exe
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.pdb
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.exe
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.pdb
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\BAL.dll
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\DAL.dll
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\BAL.pdb
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\DAL.pdb
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BaoCao.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Baohanh.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Baohanh1.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BienLaiTraGop.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Bienlaitragop2.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BoPhan.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.CTHD.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.DangNhap.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Doimatkhau.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Hoadon.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.HoadonCTHD.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Huongdan.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.KhachHang1.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khachhang2.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khuyenmai.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khuyenmai1.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Manhinhchinh.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.MatHang.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.MatHang1.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhaCungCap.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhaCungCap1.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhanVien1.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhanvien2.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhapkho.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhapkho1.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuChi.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieudathang.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieudathang1.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuThu1.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuThuChi.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieutragop1.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Properties.Resources.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Quanlytaikhoan.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Quanlytaikhoan1.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongbaobaohanh.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongbaotragop.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongke.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkebanhang.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkedoanhthu.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkekho.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongtinphanmem.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Tonkho.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Xuatkho.resources
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.csproj.GenerateResource.Cache
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.exe.licenses
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\RdlCompile.cache
+C:\Users\NGUYEN\Desktop\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\RdlCompile.compiled
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.exe.config
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.exe
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.pdb
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.exe
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\QLCHDienThoaiDiDong.pdb
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\BAL.dll
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\DAL.dll
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\BAL.pdb
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\bin\Debug\DAL.pdb
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.csprojResolveAssemblyReference.cache
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BaoCao.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Baohanh.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Baohanh1.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BienLaiTraGop.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Bienlaitragop2.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.BoPhan.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.CTHD.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.DangNhap.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Doimatkhau.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Hoadon.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.HoadonCTHD.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Huongdan.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.KhachHang1.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khachhang2.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khuyenmai.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Khuyenmai1.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Manhinhchinh.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.MatHang.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.MatHang1.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhaCungCap.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhaCungCap1.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.NhanVien1.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhanvien2.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhapkho.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Nhapkho1.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuChi.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieudathang.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieudathang1.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuThu1.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.PhieuThuChi.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Phieutragop1.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Properties.Resources.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Quanlytaikhoan.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Quanlytaikhoan1.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongbaobaohanh.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongbaotragop.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongke.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkebanhang.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkedoanhthu.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongkekho.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Thongtinphanmem.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Tonkho.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.Xuatkho.resources
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.csproj.GenerateResource.Cache
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\QLCHDienThoaiDiDong.exe.licenses
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\RdlCompile.cache
+E:\Kien Documents\Công nghệ phần mềm\DoanCNPM\doan\QLCHDienThoaiDiDong\QLCHDienThoaiDiDong\obj\Debug\RdlCompile.compiled

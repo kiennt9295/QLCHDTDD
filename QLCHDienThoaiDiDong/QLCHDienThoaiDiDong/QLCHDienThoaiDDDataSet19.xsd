@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QLCHDienThoaiDDDataSet19" targetNamespace="http://tempuri.org/QLCHDienThoaiDDDataSet19.xsd" xmlns:mstns="http://tempuri.org/QLCHDienThoaiDDDataSet19.xsd" xmlns="http://tempuri.org/QLCHDienThoaiDDDataSet19.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLCHDienThoaiDDConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLCHDienThoaiDDConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QLCHDienThoaiDiDong.Properties.Settings.GlobalReference.Default.QLCHDienThoaiDDConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TONKHOTableAdapter" GeneratorDataComponentClassName="TONKHOTableAdapter" Name="TONKHO" UserDataComponentName="TONKHOTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLCHDienThoaiDDConnectionString (Settings)" DbObjectName="QLCHDienThoaiDD.dbo.TONKHO" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MAMH, SLNHAP, SLBAN, SLCON FROM dbo.TONKHO</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MAMH" DataSetColumn="MAMH" />
+              <Mapping SourceColumn="SLNHAP" DataSetColumn="SLNHAP" />
+              <Mapping SourceColumn="SLBAN" DataSetColumn="SLBAN" />
+              <Mapping SourceColumn="SLCON" DataSetColumn="SLCON" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QLCHDienThoaiDDDataSet19" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="QLCHDienThoaiDDDataSet19" msprop:Generator_UserDSName="QLCHDienThoaiDDDataSet19">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TONKHO" msprop:Generator_TableClassName="TONKHODataTable" msprop:Generator_TableVarName="tableTONKHO" msprop:Generator_TablePropName="TONKHO" msprop:Generator_RowDeletingName="TONKHORowDeleting" msprop:Generator_RowChangingName="TONKHORowChanging" msprop:Generator_RowEvHandlerName="TONKHORowChangeEventHandler" msprop:Generator_RowDeletedName="TONKHORowDeleted" msprop:Generator_UserTableName="TONKHO" msprop:Generator_RowChangedName="TONKHORowChanged" msprop:Generator_RowEvArgName="TONKHORowChangeEvent" msprop:Generator_RowClassName="TONKHORow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MAMH" msprop:Generator_ColumnVarNameInTable="columnMAMH" msprop:Generator_ColumnPropNameInRow="MAMH" msprop:Generator_ColumnPropNameInTable="MAMHColumn" msprop:Generator_UserColumnName="MAMH" type="xs:int" />
+              <xs:element name="SLNHAP" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnSLNHAP" msprop:Generator_ColumnPropNameInRow="SLNHAP" msprop:Generator_ColumnPropNameInTable="SLNHAPColumn" msprop:Generator_UserColumnName="SLNHAP" type="xs:int" minOccurs="0" />
+              <xs:element name="SLBAN" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnSLBAN" msprop:Generator_ColumnPropNameInRow="SLBAN" msprop:Generator_ColumnPropNameInTable="SLBANColumn" msprop:Generator_UserColumnName="SLBAN" type="xs:int" minOccurs="0" />
+              <xs:element name="SLCON" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnSLCON" msprop:Generator_ColumnPropNameInRow="SLCON" msprop:Generator_ColumnPropNameInTable="SLCONColumn" msprop:Generator_UserColumnName="SLCON" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TONKHO" />
+      <xs:field xpath="mstns:MAMH" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
