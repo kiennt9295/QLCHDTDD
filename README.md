@@ -5,7 +5,7 @@ Võ Văn Thưởng + Trần Đăng Khoa:
 của các doanh nghiệp. Từ thực tế khảo sát các cửa hàng điện thoại di động trên thị trường cho thấy, đa số các cửa hàng điện thoại di dộng 
 đều chưa có phần mềm quản lí, các phương pháp quản lí đều thực hiện  một cách thủ công chủ yếu bằng ghi chép sổ sách. Nhằm giảm các thao 
 tác thủ công, mang lại tính chính xác và hiệu quả trong công tác quản lí hoạt động kinh doanh.
--	Với mục tiêu khắc phục được những vấn đề này nên chúng em đi sâu tìm hiểu cách thức tổ chức quản lí cửa ahngf điện thoại di động với 
+-	Với mục tiêu khắc phục được những vấn đề này nên chúng tôi đi sâu tìm hiểu cách thức tổ chức quản lí cửa hàng điện thoại di động với 
 những nội dung chính sau: Quản lí bán hàng, Quản lí trả góp, Quản lí tài chính, Quản lí bảo hành, Quản lí kho.
 -	Các mặt hàng điện thoại nhập vào kho sẽ được ghi vào phiếu nhập gồm các thông tin như: số phiếu, ngày nhập, loại điện thoại gì, đơn giá,
 nhân viên nhập, tổng giá trị nhập.
