@@ -1,6 +1,6 @@
 # QLCHDTDD
 Chương trình “Quản lí cửa hàng điện thoại di động” là kết quả của quá trình tìm hiểu, xây dựng của nhóm gồm Nguyễn Trung Kiên 
-Võ Văn Thưởng + Trần Đăng Khoa:
+Võ Văn Thưởng:
 -	Nhằm phục vụ nhu cầu truyền thông ngày càng cao của con người hoạt động kinh doanh điện thoại ngày càng phát triển trong xu hướng bán lẻ
 của các doanh nghiệp. Từ thực tế khảo sát các cửa hàng điện thoại di động trên thị trường cho thấy, đa số các cửa hàng điện thoại di dộng 
 đều chưa có phần mềm quản lí, các phương pháp quản lí đều thực hiện  một cách thủ công chủ yếu bằng ghi chép sổ sách. Nhằm giảm các thao 
